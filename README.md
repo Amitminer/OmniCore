@@ -28,7 +28,7 @@ OmniCore is a plugin for Pocketmine MP that merges various features into one plu
 
 Note that the files `TPALLCommand.php`, `TimerCommand.php`, `CoordinateCommand.php`, `InfinitSlotsEvent.php`, `AutoInvEvent.php`, and `KeepInvEvent.php` contain the string `#TODO` as an example code. You may modify or remove this code as needed.
 
-## Installation
+## Installation *Unavailable..
 
 1. Download the latest release of OmniCore from the [releases page](https://github.com/yourusername/OmniCore/releases).
 2. Upload the downloaded `.phar` file to your Pocketmine MP server's `plugins` folder.
