@@ -30,7 +30,7 @@ Note that the files `TPALLCommand.php`, `TimerCommand.php`, `CoordinateCommand.p
 
 ## Installation *Unavailable..
 
-1. Download the latest release of OmniCore from the [releases page](https://github.com/yourusername/OmniCore/releases).
+1. Download the latest release of OmniCore from the [releases page](https://github.com/Amitminer/OmniCore/releases).
 2. Upload the downloaded `.phar` file to your Pocketmine MP server's `plugins` folder.
 3. Restart your server.
 
@@ -46,4 +46,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Amitminer/OmniCore/blob/8385a28997bb5f76bf5a6413460b406c16721a68/LICENSE)
