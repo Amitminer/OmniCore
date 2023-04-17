@@ -46,4 +46,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://github.com/Amitminer/OmniCore/blob/8385a28997bb5f76bf5a6413460b406c16721a68/LICENSE)
+[Apache License 2.0](https://github.com/Amitminer/OmniCore/blob/8385a28997bb5f76bf5a6413460b406c16721a68/LICENSE)
